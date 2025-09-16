@@ -23,7 +23,8 @@ The goal is to understand user opinions (Positive, Negative, Neutral) and visual
 
 ## How to Run
 1. Open the notebook in **Google Colab**:  
-   [![Open In Colab](https://colab.research.google.com/drive/1eSsuwj3j4OyHhsLMhar2tROn8lhEYe89?usp=sharing)
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eSsuwj3j4OyHhsLMhar2tROn8lhEYe89)
+
 2. Install dependencies:
 - !pip install pandas numpy matplotlib seaborn scikit-learn wordcloud
 3. Upload reviews.csv or use your own dataset.
